@@ -2,8 +2,11 @@
 #### Video Demo:  <URL HERE>
 #### Description:
 Sapper game you can play in terminal window.
+
 ![Screenshot 1](Sapper_1.png)
+
 Find all bombs without any mistake. To win a game you need to reveal all squeres without a bomb or correctly put a flag on every bomb.
+
 ![Screenshot 2](Sapper_2.png)
 
 Moves:
